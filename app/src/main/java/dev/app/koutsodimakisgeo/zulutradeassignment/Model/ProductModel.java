@@ -1,6 +1,5 @@
 package dev.app.koutsodimakisgeo.zulutradeassignment.Model;
 
-
 /**
  * Created by koutsodimakisgeo on 28-Sep-17.
  */
